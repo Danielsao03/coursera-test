@@ -74,6 +74,9 @@ h2{
 
 }
 
+
+
+
 .container-fluid span{
   
   text-transform: uppercase;
@@ -83,11 +86,11 @@ h2{
   color: darkblue;
 }
 
-#p1,#p2,#p3{
+#p1{
+  
   border: 2px solid black;
   text-align: center;
   background-color: grey;
-
   font-size: 20px;
 
 }
